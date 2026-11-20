@@ -1,0 +1,6 @@
+{
+  "name": "Dakshakriti — Corporate Legal Intelligence",
+  "description": "An AI-assisted Corporate Legal Intelligence Platform and Operating System that reconstructs a company's legal state over time, connecting corporate events with evidence, authority, and statutory compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
